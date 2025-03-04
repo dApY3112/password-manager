@@ -1,0 +1,5 @@
+password.db
+secret.key
+venv
+backups
+__pycache__
